@@ -32,6 +32,4 @@ return {
  run = mohammedboss,
 }
 end
--- Dev💀: @TH3BOSS
--- Dev bot💀: @ll60Kllbot
--- DevChannel 💀: @llDEV1ll
+-
