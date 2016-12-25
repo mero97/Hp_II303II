@@ -2,7 +2,7 @@
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                       ▀▄ ▄▀ 
 ▀▄ ▄▀       BY MOHAMMED HISHAM              ▀▄ ▄▀ 
-▀▄ ▄▀ BY MOHAMMEDHISHAM (@TH3BOSS)          ▀▄ ▄▀          
+▀▄ ▄▀ BY MOHAMMEDHISHAM (@II303II)          ▀▄ ▄▀          
 ▀▄ ▄▀ JUST WRITED BY MOHAMMED HISHAM        ▀▄ ▄▀   
 ▀▄ ▄▀            مساعدة 1                 ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
@@ -38,9 +38,8 @@ local S = [[
 ▫️ زخرفه :: لزخرفه اسم معين باللغه العربيه
 ▫️ write :: لزخرفه اسم معين باللغه الانكليزيه
 ➖🔹➖🔹➖🔹➖🔹➖🔹
-💯-Đєⱴ💀: @TH3BOSS
-💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot
-💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll
+💯-Đєⱴ💀: @II303II
+💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @IiI303IiI
 ]]
 reply_msg(reply_id, S, ok_cb, false) 
 end
