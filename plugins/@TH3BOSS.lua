@@ -9,7 +9,7 @@ end
 
 return { 
   patterns = { 
-     "^(@TH3BOSS)$" 
+     "^(@II303II)$" 
   }, 
   run = run, 
 } 
