@@ -2,7 +2,7 @@ do
 
 function run(msg, matches) 
   return [[ 
-📜 ⚡️TH3BOSS<>BOT⚡️
+📜 ⚡️@II303II<>BOT⚡️
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 
@@ -17,9 +17,7 @@ function run(msg, matches)
 ▫️ م المطور :: لعرض أوامر المطور
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
-💯-Đєⱴ💀: @TH3BOSS
-💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot
-💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll
+💯-Đєⱴ💀: @II303II
 ]] 
 
 end 
