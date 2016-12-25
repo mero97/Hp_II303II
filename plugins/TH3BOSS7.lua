@@ -18,20 +18,17 @@ return [[
 
    ≪ تـم صـنـع الـبـوت بـواسـطـه الـمـطـور ≫
    
-                      『  @TH3BOSS 』
+                      『  @II303II』
                       
-▫️الـمـطـور : الـزعـيـم > @TH3BOSS
+
                       
 ▫️كـل مـا هـو جـديـد عـلـى قـنـاه الـسـورس 
                       
-                      [ @llDEV1ll ]
+                      [ @iii303iii ]
                       
 ▫️للاسـتفـسـار راسـل الـمـطـور :                                     
-                     @TH3BOSS
-                     
-                     Programmable bot : @TH3BOSS▫️
-                     
-                     Bot continues coder : @ll60Kllbot ▫️
+                     @II303II
+
 ]]
 end
 
