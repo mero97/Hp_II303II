@@ -1,6 +1,6 @@
 --[[
 BY-@Sadik_alknani10
-BY_CH : @KINGTELE1
+BY_CH : @II303ii
 ]]
 
 local function get_variables_hash(msg)
@@ -122,4 +122,4 @@ return {
   },
   run = run
 }
---  @TH3BOSS
+--  @II303ii
